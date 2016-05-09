@@ -1,0 +1,5 @@
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.Application\bin\Debug\ThirtyDaysOfTDD.Application.dll
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.Application\bin\Debug\ThirtyDaysOfTDD.Application.pdb
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.Application\obj\Debug\ThirtyDaysOfTDD.Application.dll
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.Application\obj\Debug\ThirtyDaysOfTDD.Application.pdb
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.Application\obj\Debug\ThirtyDaysOfTDD.Application.csprojResolveAssemblyReference.cache

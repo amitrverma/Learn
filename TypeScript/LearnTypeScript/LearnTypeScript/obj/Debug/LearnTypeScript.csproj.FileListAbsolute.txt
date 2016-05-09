@@ -1,0 +1,6 @@
+C:\SourceCode\Learn\TypeScript\LearnTypeScript\LearnTypeScript\bin\LearnTypeScript.dll.config
+C:\SourceCode\Learn\TypeScript\LearnTypeScript\LearnTypeScript\bin\LearnTypeScript.dll
+C:\SourceCode\Learn\TypeScript\LearnTypeScript\LearnTypeScript\bin\LearnTypeScript.pdb
+C:\SourceCode\Learn\TypeScript\LearnTypeScript\LearnTypeScript\obj\Debug\LearnTypeScript.csprojResolveAssemblyReference.cache
+C:\SourceCode\Learn\TypeScript\LearnTypeScript\LearnTypeScript\obj\Debug\LearnTypeScript.dll
+C:\SourceCode\Learn\TypeScript\LearnTypeScript\LearnTypeScript\obj\Debug\LearnTypeScript.pdb

@@ -1,0 +1,9 @@
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\obj\Debug\ThirtyDaysOfTDD.UnitTests.csprojResolveAssemblyReference.cache
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\bin\Debug\ThirtyDaysOfTDD.UnitTests.dll
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\bin\Debug\ThirtyDaysOfTDD.UnitTests.pdb
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\bin\Debug\nunit.framework.dll
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\bin\Debug\ThirtyDaysOfTDD.Application.dll
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\bin\Debug\ThirtyDaysOfTDD.Application.pdb
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\bin\Debug\nunit.framework.xml
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\obj\Debug\ThirtyDaysOfTDD.UnitTests.dll
+C:\SourceCode\Learn\ThirtyDaysOfTDD\ThirtyDaysOfTDD.UnitTests\obj\Debug\ThirtyDaysOfTDD.UnitTests.pdb
